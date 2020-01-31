@@ -10057,13 +10057,13 @@ a.link-on-bg:hover {
 }
 
 .hero-section .figure-holder {
-	background: url("../images/hero-figure.png") no-repeat right top;
-	background-size: 480px auto;
+	background: url("../images/hero_new.png") no-repeat right top;
+	background-size: 360px auto;
 	min-height: 600px
 }
 
 .hero-section .app-stores img {
-	height: 130px
+	height: 60px
 }
 
 @media all and (-ms-high-contrast: none),
